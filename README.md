@@ -12,5 +12,5 @@ Requirements:
 - Phase 4 requries one component: same as 3 but what if the robot is two wheeled
 
 Timeline:
->Unknown at the moment (due to the scale of this project and the rather influx of ideas that I currently have, I will be posting >sproadically on updates for this project)
+>Unknown at the moment (due to the scale of this project and the rather influx of ideas that I currently have, I will be posting sproadically on updates for this project)
 
