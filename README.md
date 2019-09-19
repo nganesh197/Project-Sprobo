@@ -1,4 +1,4 @@
-# Project_Sprobo
+# Project Sprobo
 Background:
 >Growing up, I used to have a roller backpack that I would carry everywhere in school. For me, this backpack was optimized for ease in >getting items to and from pouches, efficient in moving around school, and less strain on the back. I realized that once I left elementary >school the stigma behind roller backpacks. So from that point onwards, I would lug around a typical backpack or satchel. 
 
